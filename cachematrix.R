@@ -1,7 +1,7 @@
 ######## Comment #########
 
-## This pair of functions can realise caching the result of matrix inversion,   
-## in order to prevent repeating culculating the inversion that has been done 
+## This pair of functions can realize caching the result of matrix inversion,   
+## in order to prevent repeating calculating the inversion that has been done 
 ## before. This can be useful especially when the matrix is very big, caching 
 ## the result means saving so much times.
 
